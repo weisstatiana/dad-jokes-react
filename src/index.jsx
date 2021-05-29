@@ -13,8 +13,14 @@ const App = () => {
   const handleDislike = () => {
     setDislike(dislike + 1);
   };
-  ///skoro okopirovana///
+
   return (
+    <Joke avatar="niekto"
+    name="ktosi"
+    text="tento kod je najvacsi joke na svete"
+    likes="ne"
+    dislikes="ne"
+    />
     <div className="container">
       <div className="joke">
         <div className="joke__body">

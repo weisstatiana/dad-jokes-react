@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../../../../Downloads/dadjokes-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "dadjokes-main"
+  }
+}
