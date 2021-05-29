@@ -14,3 +14,4 @@ import { Joke } from "./Joke"
     </div>
   )
 }
+render(<App />, document.querySelector('#app'));
